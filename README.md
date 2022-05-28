@@ -28,8 +28,6 @@ Pewlett Hackard is reviewing staffing metrics, namely retirement and needs assis
 
 ![image](https://user-images.githubusercontent.com/96215773/170806377-b98e86a4-56aa-422f-b540-ec964b4a9b7e.png)
 
-![image](https://user-images.githubusercontent.com/96215773/170807137-5bba5268-8e43-46cf-a72d-fb3015b60add.png)
-
 
 ![image](https://user-images.githubusercontent.com/96215773/170806388-d1030701-9962-468c-a330-3412ae5796c5.png)
 
@@ -39,6 +37,7 @@ Pewlett Hackard is reviewing staffing metrics, namely retirement and needs assis
 90,398 (28.7%) are eligible for retirement.
 Senior Engineer, Senior Staff and Engineer's hold the largest share (27.6%) of employees likely preparing for retirement.
 
+![image](https://user-images.githubusercontent.com/96215773/170807137-5bba5268-8e43-46cf-a72d-fb3015b60add.png)
 
 ## Employees Eligible for Mentorship
 
