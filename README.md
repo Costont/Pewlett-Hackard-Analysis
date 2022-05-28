@@ -28,15 +28,15 @@ Pewlett Hackard is reviewing staffing metrics, namely retirement and needs assis
 
 ![image](https://user-images.githubusercontent.com/96215773/170806377-b98e86a4-56aa-422f-b540-ec964b4a9b7e.png)
 
-![image](https://user-images.githubusercontent.com/96215773/170807038-619064fc-9a07-4d83-8748-ac55edfcbc87.png)
+![image](https://user-images.githubusercontent.com/96215773/170807137-5bba5268-8e43-46cf-a72d-fb3015b60add.png)
 
 
 ![image](https://user-images.githubusercontent.com/96215773/170806388-d1030701-9962-468c-a330-3412ae5796c5.png)
 
-![image](https://user-images.githubusercontent.com/96215773/170807063-4e9923d2-3b98-4119-807a-18527553e612.png)
+![image](https://user-images.githubusercontent.com/96215773/170807460-4d15660a-b2b4-4e29-8fe1-5ee53bd735b3.png)
 
 ## Employees Eligible for Retirement
-Of the 300,024 employees within the company, 90,398 (30.13%) are eligible for retirement.
+Of the 33,118 employees within the company, 90,398 (30.13%) are eligible for retirement.
 Senior Engineer, Senior Staff and Engineer's hold the largest share (23.9%) of employees likely preparing for retirement.
 query_schema_0
 
